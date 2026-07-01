@@ -1,0 +1,42 @@
+canonical_identifier: bkk:krp/KR6j0583/v1
+canonical_location: https://kanripo.org/bkk/KR6j0583/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 東方最勝燈王陀羅尼經
+  identifiers:
+    alt_id:
+    - T21n1353
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T21/T21n1353.xml
+    old_id: T21n1353
+  edition:
+    short: bkk
+editions:
+- short: 大
+  label: 大
+  source_xml_id: wit.orig
+- short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6j0583_000.yaml, hash: 'sha256:cdd34303b725ddd8220e36aa418848725241c8e8522649171255d81955eab0dd'}
+  - {seq: 1, filename: KR6j0583_001.yaml, hash: 'sha256:ea05f206b1b9e2492e02c708ddf63fc9104f4c61d138c89e6a51d5ed91c703cd'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR6j0583_001.markers.yaml, hash: 'sha256:b0d9089aec36159cdd68600ce3ece4d3271a2fd3cf4f24d6a9944b4cb7a37c74'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6j0583_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 2676
+  label: 東方最勝燈王陀羅尼經
+  type: juan
+  level: 1
+hash: sha256:a9c1c32f1b6c39fb518a02921503c1c78f573fe623fdb5b8e82f43440edc9cbf
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e

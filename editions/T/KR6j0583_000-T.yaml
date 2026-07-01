@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6j0583/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 東方最勝燈王陀羅尼經
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T21/T21n1353.xml
+    old_id: T21n1353
+hash: sha256:cdd34303b725ddd8220e36aa418848725241c8e8522649171255d81955eab0dd
