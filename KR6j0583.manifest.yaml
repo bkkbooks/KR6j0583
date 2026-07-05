@@ -22,9 +22,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6j0583_000.yaml, hash: 'sha256:cdd34303b725ddd8220e36aa418848725241c8e8522649171255d81955eab0dd'}
-  - {seq: 1, filename: KR6j0583_001.yaml, hash: 'sha256:ea05f206b1b9e2492e02c708ddf63fc9104f4c61d138c89e6a51d5ed91c703cd'}
+  - {seq: 1, filename: KR6j0583_001.yaml, hash: 'sha256:a020af10d69552ae076cf33c7548e22a1f34c13a2f79ae93a0c6a16b7cdff6bd'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6j0583_001.markers.yaml, hash: 'sha256:b0d9089aec36159cdd68600ce3ece4d3271a2fd3cf4f24d6a9944b4cb7a37c74'}
+  - {seq: 0, role: markers, filename: assets/KR6j0583_000.markers.yaml, hash: 'sha256:9aca3fd386bf83882dc62a4cab2226db6cab940c3cb194df18db2f3cfaf1431b'}
+  - {seq: 1, role: markers, filename: assets/KR6j0583_001.markers.yaml, hash: 'sha256:d5f022704b541045ab47a161872b574f114e5b462b4e09d41517e374111b1944'}
 table_of_contents:
 - ref:
     seq: 1
@@ -36,7 +37,4 @@ table_of_contents:
   label: 東方最勝燈王陀羅尼經
   type: juan
   level: 1
-hash: sha256:a9c1c32f1b6c39fb518a02921503c1c78f573fe623fdb5b8e82f43440edc9cbf
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:49e52c37f34c68f0c3ff7e004fa6fe4e42238c17c26a3fd6513e3265d373f1f8
